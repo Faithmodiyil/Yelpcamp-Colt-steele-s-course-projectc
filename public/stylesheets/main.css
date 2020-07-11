@@ -1,0 +1,15 @@
+.img-thumbnail img{
+    width: 100%;
+}
+.img-thumbnail{
+    padding: 0;
+}
+.img-thumbnail.figure-caption{
+    padding-bottom: 19px;
+}
+#delete{
+    display:inline;
+}
+.delete{
+    display: inline;
+}
